@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="mostafa_sidawi_ai_developer_banner.png" alt="Mostafa Sidawi - AI Product Builder" width="100%">
+</p>
+  
 # 👋 Hi, I'm Mostafa Sidawi
 
 ### 🚀 AI Product Builder | Digital Innovation & Automation
