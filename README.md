@@ -16,14 +16,52 @@ My focus is turning ideas into useful applications that solve real-world problem
 
 ---
 
-## 🚀 What I'm Building
+## 🌟 Featured Projects
 
-| Project | Description | Status |
-|---|---|---|
-| 🥗 My Smart Diet | AI-assisted nutrition and lifestyle management | 🟡 In Development |
-| 🩺 Dana Clinic | Digital clinic management and patient experience | 🟡 In Development |
-| 🛒 Commerce Command Center | AI-powered e-commerce operations and automation | 🟡 In Development |
-| 🚚 Sideway Logistics | Logistics management and business operations | 🟡 In Development |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🥗 My Smart Diet
+AI-assisted nutrition and lifestyle management.
+
+**Status:** 🟡 In development  
+**Code:** Private
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 Dana Clinic
+Digital clinic management and patient experience.
+
+**Status:** 🟡 In development  
+**Showcase:** Not public yet
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Commerce Command Center
+AI-powered e-commerce operations and workflow automation.
+
+**Status:** 🟡 In development  
+**Code:** Private
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 Sideway Logistics
+Tools for logistics management and business operations.
+
+**Status:** 🟡 In development  
+**Showcase:** Not public yet
+
+</td>
+</tr>
+</table>
+
+> 🔒 Some project repositories are private. Public demos and documentation will be linked when available.
 
 ---
 
@@ -46,6 +84,22 @@ My focus is turning ideas into useful applications that solve real-world problem
 ![AI](https://img.shields.io/badge/AI-Powered-7B61FF?style=for-the-badge)
 
 Exploring AI-assisted development, GitHub workflows, and modern application-building platforms.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/MosteSidawi?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/MosteSidawi?style=for-the-badge&label=Followers&color=06b6d4&labelColor=0b1220&logo=github"></a>
+  <a href="https://github.com/MosteSidawi?tab=stars"><img alt="GitHub stars" src="https://img.shields.io/github/stars/MosteSidawi?style=for-the-badge&label=Stars&color=8b5cf6&labelColor=0b1220&logo=github"></a>
+  <a href="https://github.com/MosteSidawi/MosteSidawi/commits/main"><img alt="Last profile update" src="https://img.shields.io/github/last-commit/MosteSidawi/MosteSidawi?style=for-the-badge&label=Profile%20updated&color=14b8a6&labelColor=0b1220"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MosteSidawi">View my contributions and recent GitHub activity →</a>
+</p>
+
+<sub>These badges reflect public GitHub data. Private project source code is not exposed.</sub>
 
 ---
 
