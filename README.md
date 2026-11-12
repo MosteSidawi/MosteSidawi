@@ -16,36 +16,28 @@ My focus is turning ideas into useful applications that solve real-world problem
 
 ---
 
-## 🌟 Featured Projects
+## 🥗 Featured Personal App — My Smart Diet
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🥗 My Smart Diet</h3>
-<p>AI-assisted nutrition and lifestyle management.</p>
-<p><strong>Status:</strong> 🟡 In development<br/><strong>Code:</strong> Private</p>
-</td>
-<td width="50%" valign="top">
-<h3>🩺 Dana Clinic</h3>
-<p>Digital clinic management and patient experience.</p>
-<p><strong>Status:</strong> 🟡 In development<br/><strong>Showcase:</strong> Not public yet</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🛒 Commerce Command Center</h3>
-<p>AI-powered e-commerce operations and workflow automation.</p>
-<p><strong>Status:</strong> 🟡 In development<br/><strong>Code:</strong> Private</p>
-</td>
-<td width="50%" valign="top">
-<h3>🚚 Sideway Logistics</h3>
-<p>Tools for logistics management and business operations.</p>
-<p><strong>Status:</strong> 🟡 In development<br/><strong>Showcase:</strong> Not public yet</p>
-</td>
-</tr>
-</table>
+**My Smart Diet** is my personal, Arabic-first (RTL) Android project for nutrition and health tracking.
 
-> 🔒 Some project repositories are private. Public demos and documentation will be linked when available.
+- 📱 **Platform:** Android
+- 🌐 **Experience:** Arabic, right-to-left interface
+- 📶 **Approach:** Offline-first personal tracking
+- 🚧 **Status:** In development
+- 🔒 **Source code:** Private — public project showcase coming soon
+
+> This is my personal **My Smart Diet** project, separate from Dana Clinic.
+
+---
+
+## 🧩 Other Projects
+
+| Project | Focus | Status |
+|---|---|---|
+| 🛒 Commerce Command Center | AI-assisted e-commerce workflows | 🟡 In development |
+| 🚚 Sideway Logistics | Logistics and operations management | 🟡 In development |
+
+> 🔒 Project source repositories remain private. Public demos and documentation will be shared when available.
 
 ---
 
