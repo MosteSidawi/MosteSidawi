@@ -26,7 +26,6 @@ My focus is turning ideas into useful applications that solve real-world problem
 - 🚧 **Status:** In development
 - 🔒 **Source code:** Private — public project showcase coming soon
 
-> This is my personal **My Smart Diet** project, separate from Dana Clinic.
 
 ---
 
