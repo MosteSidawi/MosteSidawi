@@ -18,6 +18,8 @@ My focus is turning ideas into useful applications that solve real-world problem
 
 ## 🥗 Featured Personal App — My Smart Diet
 
+<p><a href="https://github.com/MosteSidawi/my-smart-diet-showcase"><strong>🌐 View My Smart Diet — Public Showcase</strong></a></p>
+
 **My Smart Diet** is my personal, Arabic-first (RTL) Android project for nutrition and health tracking.
 
 - 📱 **Platform:** Android
