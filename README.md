@@ -21,42 +21,26 @@ My focus is turning ideas into useful applications that solve real-world problem
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🥗 My Smart Diet
-AI-assisted nutrition and lifestyle management.
-
-**Status:** 🟡 In development  
-**Code:** Private
-
+<h3>🥗 My Smart Diet</h3>
+<p>AI-assisted nutrition and lifestyle management.</p>
+<p><strong>Status:</strong> 🟡 In development<br/><strong>Code:</strong> Private</p>
 </td>
 <td width="50%" valign="top">
-
-### 🩺 Dana Clinic
-Digital clinic management and patient experience.
-
-**Status:** 🟡 In development  
-**Showcase:** Not public yet
-
+<h3>🩺 Dana Clinic</h3>
+<p>Digital clinic management and patient experience.</p>
+<p><strong>Status:</strong> 🟡 In development<br/><strong>Showcase:</strong> Not public yet</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🛒 Commerce Command Center
-AI-powered e-commerce operations and workflow automation.
-
-**Status:** 🟡 In development  
-**Code:** Private
-
+<h3>🛒 Commerce Command Center</h3>
+<p>AI-powered e-commerce operations and workflow automation.</p>
+<p><strong>Status:</strong> 🟡 In development<br/><strong>Code:</strong> Private</p>
 </td>
 <td width="50%" valign="top">
-
-### 🚚 Sideway Logistics
-Tools for logistics management and business operations.
-
-**Status:** 🟡 In development  
-**Showcase:** Not public yet
-
+<h3>🚚 Sideway Logistics</h3>
+<p>Tools for logistics management and business operations.</p>
+<p><strong>Status:</strong> 🟡 In development<br/><strong>Showcase:</strong> Not public yet</p>
 </td>
 </tr>
 </table>
